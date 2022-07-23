@@ -62,7 +62,7 @@ In light of this, I implement the binary cross-entropy loss for my model, due to
 # Still curious?
 I authored a research paper covering the details of my methodology and findings when I took a PhD-level Deep Learning class at Columbia.
 
-You can find my paper <a href="_____">here</a> :) 
+You can find my paper <a href="https://github.com/sheilateozy/Google_Scoring-QA-Algorithms/blob/main/research_paper/research_paper.pdf">here</a> :) 
 
 
 
