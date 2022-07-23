@@ -60,9 +60,9 @@ In light of this, I implement the binary cross-entropy loss for my model, due to
 
 
 # Still curious?
-I authored a research paper covering the details of my methodology and findings when I took a PhD-level Machine Learning class at Columbia. This paper was awarded the top mark in the class (full-mark grade).
+I authored a research paper covering the details of my methodology and findings when I took a PhD-level Deep Learning class at Columbia.
 
-You can find my paper <a href="https://github.com/sheilateozy/Spotify_Predicting-Track-Skipping/blob/main/research_paper.pdf">here</a> :) 
+You can find my paper <a href="_____">here</a> :) 
 
 
 
