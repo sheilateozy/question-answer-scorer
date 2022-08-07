@@ -22,7 +22,7 @@ This project builds a deep learning model that predicts the quality of automated
 
 
 # Still curious?
-Check out this project on my website <a href="_____">here</a> :)
+Check out this project on my website <a href="https://sheilateozy.github.io/#portfolio" target="_blank">here</a> :)
 
 
 
