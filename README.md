@@ -1,4 +1,6 @@
-<h1> Google Research competition: Scoring Q&A algorithms<br>Built LSTM with 0.401 binary cross-entropy loss</h1>
+# Google Research competition: Scoring Q&A algorithms
+## Built LSTM with 0.401 binary cross-entropy loss
+
 I competed in the Question-Answering Labelling Competition, and emerged top 15% out of 1571 participants.
 <br>
 <li> Deep learning using Keras, PyTorch
