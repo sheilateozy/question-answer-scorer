@@ -1,5 +1,5 @@
 # Google Research competition: Scoring Q&A algorithms
-## Built LSTM with 0.401 binary cross-entropy loss
+## Using Bi-Directional LSTM with Convolutional Layers
 
 I competed in the Question-Answering Labelling Competition, and emerged top 15% out of 1571 participants.
 <br>
